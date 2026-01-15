@@ -1,4 +1,6 @@
 <img width="957" height="957" alt="image" src="https://github.com/user-attachments/assets/c62b473d-9712-4c42-90a4-46b5ccf27812" />
+<img width="981" height="568" alt="image" src="https://github.com/user-attachments/assets/211ea9ca-b329-449f-903c-9de7325957c1" />
+
 
 # Mod de Traducción para Hytale
 
